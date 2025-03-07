@@ -1,0 +1,19 @@
+{
+    "stock_symbols": [
+        "NEE",
+        "ENPH",
+        "SEDG",
+        "FSLR",
+        "NOVA"
+    ],
+    "data_storage": {
+        "bronze_path": "/mnt/datalake/bronze/stock_data",
+        "silver_path": "/mnt/datalake/silver/stock_data",
+        "gold_daily_path": "/mnt/datalake/gold/daily_metrics",
+        "gold_monthly_path": "/mnt/datalake/gold/monthly_summary"
+    },
+    "pipeline_params": {
+        "lookback_days": 365,
+        "refresh_frequency": "daily"
+    }
+}
