@@ -29,6 +29,7 @@ This project implements a comprehensive data pipeline that:
 
 ## Project Structure
 
+```
 Azure-Alpha-Vantage/
 ├── notebooks/ # Databricks notebooks
 │ ├── 01_setup_and_mount.py
@@ -38,6 +39,7 @@ Azure-Alpha-Vantage/
 │ └── 05_pipeline.py # Main workflow orchestration
 └── config/
 └── config.json # Configuration file
+```
 
 ## Implementation Results
 
