@@ -45,19 +45,19 @@ Azure-Alpha-Vantage/
 
 ### Data Ingestion (Bronze Layer)
 
-![Bronze Layer Data](screenshots/bronze_layer.png)
+![Bronze Layer Data](screenshots/01_bronze_layer.png)
 
 ### Data Transformation (Silver Layer)
 
-![Silver Layer Transformations](screenshots/silver_layer.png)
+![Silver Layer Transformations](screenshots/02_silver_layer.png)
 
 ### Data Analytics (Gold Layer)
 
-![Gold Layer Analytics](screenshots/gold_layer.png)
+![Gold Layer Analytics](screenshots/03_gold_layer_1.png)
 
 ### Complete Pipeline Execution
 
-![Pipeline Execution](screenshots/pipeline_execution.png)
+![Pipeline Execution](screenshots/04_pipeline_execution.png)
 
 ## Key Features
 
