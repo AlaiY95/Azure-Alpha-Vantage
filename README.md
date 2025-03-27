@@ -19,8 +19,6 @@ This project implements a comprehensive data pipeline that:
 - **Silver Layer**: Cleansed and enriched data with technical indicators
 - **Gold Layer**: Analytics-ready aggregated views
 
-![Pipeline Architecture](screenshots/architecture.png)
-
 ## Technologies Used
 
 - Azure Databricks
@@ -54,6 +52,8 @@ Azure-Alpha-Vantage/
 ### Data Analytics (Gold Layer)
 
 ![Gold Layer Analytics](screenshots/03_gold_layer_1.png)
+
+![Gold Layer Analytics 2](screenshots/03_gold_layer_2.png)
 
 ### Complete Pipeline Execution
 
